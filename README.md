@@ -9,6 +9,9 @@ VR 플레이어가 해골의 역할을 수행하고 PC 플레이어가 마법사
 
 [![예제](http://img.youtube.com/vi/_ecOXHJJA68/0.jpg)](https://youtu.be/_ecOXHJJA68?t=0s) 
 
+## ⭐ 발표 동영상
+[![예제](http://img.youtube.com/vi/TOMNeFt9yVU/0.jpg)](https://youtu.be/TOMNeFt9yVU=0s) 
+
 
 ## 👨‍💻 역할 
 **팀장**   </br>
